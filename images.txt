@@ -2,5 +2,6 @@ bellsoft/liberica-openjdk-rocky:25.0.5.1-cds
 bellsoft/liberica-openjdk-rocky:21.0.13.1-cds
 bellsoft/liberica-openjdk-rocky:17.0.21.1-cds
 mysql:8.0.42
+postgres:18.7-trixie
 nginx:1.23.4
 redis:7.2.8
